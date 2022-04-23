@@ -7,7 +7,7 @@ Lost and injured hikers on the ridge are unfortunately more common than one woul
 
 In these drastic scenarios, it can become difficult to reach a hiker when the conditions are poor (rain, nighttime, etc). A cost issue with finding a lost or hurt individual is that police, the fire department, and medical services will likely all be needed during or after the rescue. It all-too-often happens in which the local fire department and EMT’s must be called in to help out. Being able to locate a hiker through a GPS tracker would limit this need, and providing location on trails should also keep hikers out of danger / areas in which they can get hurt and require medical attention.
 
-#LoRaWAN Trackers as a Solution
+## LoRaWAN Trackers as a Solution
 
 The ability to provide a suitable mode to track inexperienced hikers in dangerous trails, such as Breakneck Ridge, would provide an effective way to ensure the safety of the hikers. Furthermore, a tracking solutions would reduce the rescue efforts upon the unfortunate incident of a lost hiker. Generally, for a tracking application such as this, there are few challenges that would need to be addressed. 
 
