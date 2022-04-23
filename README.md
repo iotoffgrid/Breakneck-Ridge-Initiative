@@ -1,4 +1,7 @@
 # Breakneck-Ridge-Initiative
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/99907934/164912309-a43918c4-e3f0-4fcf-8300-aeeae70869da.png">
+</p>
 
 IoT solution with an open source and free to use tracking platform for high difficulty trails that observe lost hikers and higher rate of hiker injuries.
 
