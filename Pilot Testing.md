@@ -10,9 +10,24 @@
 
 Rak GPS tracker was used for the poilot testing. [WisNode tracker](https://store.rakwireless.com/products/wisnode-trackit-set-rak2171?_pos=8&_sid=b75377cdd&_ss=r&variant=42255224045766) has dependable hardware and firmware, that is already compatible for the Helium network. This makes the on-boarding process easier during the testing phase. This tracker was distributed with the project team members who hiked the high difficulty trail as part of the poilot testing.
 
-## Poilot Testing Area
+## Pilot Testing Area
 
-The poilot testing was carried out within the long Breakneck Ridge trail that extend over 3 miles. This is the most difficult part of the hike and covers the most dangerous portion of the trek and reaches an elevation above 1200ft.
+The pilot testing was carried out within the long Breakneck Ridge trail that extend over 3 miles. This is the most difficult part of the hike and covers the most dangerous portion of the trek and reaches an elevation above 1200ft.
 <p align="center" >
 <img src=https://user-images.githubusercontent.com/99907934/204186700-63fa69ef-bd81-43af-b1b4-fed8e3847f6d.png width="500"/>
 </p>
+The image highlight this trail. The terrain is covered with wilderness; however, the higher elevation of the general path would provide better coverage of LoRaWAN devices.
+
+## Testing Results
+
+After several rounds of testing through the hiking path. The coverage and the validity of the tracking system was verifies. This required experienced hiking personal using the tracking device within the trails.
+<p align="center" >
+<img src=https://user-images.githubusercontent.com/99907934/211716358-f273c6df-be65-4af0-985f-9f382d9d79cd.png width="800"/>
+</p>
+As it is seen on the image, the GPS cordinates are transmitted at reasonable rates, providing a high number of location pings. The trace of the trail can be clearly seen from the GPS marker points taken in the real world. Further more, there's important information about the LoRaWAN coverage, that was discovered through this testing.
+<p align="center" >
+<img src=https://user-images.githubusercontent.com/99907934/211718187-745b20e0-3714-4616-95f0-0d980467470a.png width="800"/>
+</p>
+
+
+
