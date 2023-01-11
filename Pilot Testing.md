@@ -28,6 +28,6 @@ As it is seen on the image, the GPS cordinates are transmitted at reasonable rat
 <p align="center" >
 <img src=https://user-images.githubusercontent.com/99907934/211718187-745b20e0-3714-4616-95f0-0d980467470a.png width="800"/>
 </p>
-
+As visible on this overlay image of the Helium coverage in the area of testing. Even in the hexes that does not have coverage verification of Helium, we see device sending out signals and providing GPS cordinates. This shows a higher than anticipated robustness for tracking through the Helium network and further provide positive reinforcement on the notion that Helium coverage can be widely used for tracking purposes even in more remote settings with fewer hotspots at the vicinity.
 
 
