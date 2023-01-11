@@ -28,6 +28,13 @@ As it is seen on the image, the GPS cordinates are transmitted at reasonable rat
 <p align="center" >
 <img src=https://user-images.githubusercontent.com/99907934/211718187-745b20e0-3714-4616-95f0-0d980467470a.png width="800"/>
 </p>
-As visible on this overlay image of the Helium coverage in the area of testing. Even in the hexes that does not have coverage verification of Helium, we see device sending out signals and providing GPS cordinates. This shows a higher than anticipated robustness for tracking through the Helium network and further provide positive reinforcement on the notion that Helium coverage can be widely used for tracking purposes even in more remote settings with fewer hotspots at the vicinity.
+As visible on this overlay image of the Helium coverage in the area of testing. Even in the hexes that does not have coverage verification of Helium, It was observed that the device is sending out signals and providing GPS cordinates. This shows a higher than anticipated robustness for tracking through the Helium network, and further provide positive reinforcement on the notion that Helium coverage can be widely used for tracking purposes even in more remote settings with fewer hotspots at the vicinity.
 
+Further, OpenTrack platform was tested in large area tracking siuations across North Jersey/Rockland County, and it was observed that tracking applciation function properly with no issues.
+<p align="center" >
+<img src=https://user-images.githubusercontent.com/99907934/211863303-6dcc22e8-1a9f-4ee8-892f-2069ff82256a.png width="800"/>
+</p>
 
+Only problem that was observed was that there is <1% chance of miscordinated GPS signal that shows up. This is a know issue that effect most GPS chips and does not cause any significant problems.
+
+Overall, the pilot testing yielded better than expected possitive results on the developed platform and shows immense potential for a public LoRaWAN tracking avenue. This is passed for community beta testing among a group of 25 individuals around the country. Beta testing will carry out along with the next few steps for public launch.
