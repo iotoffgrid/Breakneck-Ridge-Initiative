@@ -37,3 +37,17 @@ In terms of land management, IoT sensor networks can be used to monitor factors 
 
 Overall, IoT sensors have the potential to increase the efficiency and sustainability of farming and land management practices, by providing real-time data on key factors that affect crop growth and land health, which in-terms improves environmental quality.
 
+## Sensors Important for the Conservation
+
+There are many types of IoT sensors that can be used for environmental monitoring, some of these sensors include:
+
+Temperature sensors: for measuring the temperature of the air or water
+<br>Humidity sensors: for measuring the moisture content of the air
+<br>Air quality sensors: for measuring various pollutants such as carbon monoxide, nitrogen dioxide, and ozone
+<br>Light sensors: for measuring ambient light levels
+<br>Barometric sensors: for measuring atmospheric pressure
+<br>Water quality sensors: for measuring pH levels, dissolved oxygen, and other water quality parameters
+<br>Acoustic sensors: for monitoring noise levels
+<br>Soil moisture sensors: for measuring soil moisture content
+<br>Rain gauge sensors: for measuring precipitation levels
+<br>Wind sensors: for measuring wind speed and direction.
