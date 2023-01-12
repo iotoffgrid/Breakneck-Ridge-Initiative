@@ -9,4 +9,4 @@ Internet of Things (IoT) technology can be used to assist in environmental conse
 <p align="center" >
 <img src="https://user-images.githubusercontent.com/99907934/211958525-5e530abd-c748-4665-b141-4daa2366b542.png" width="650"/>
 </p>
-There are three main components in any IoT application. End-node/s component, LoRaWAN 
+There are three main components in any IoT application. End-node/s component, LoRaWAN network and cloud component, and the data visualization dashboard component. Depending on the specific requirements of the conservation personnel or the organization, a set of sensors can be selected to create system that can monitor particular metrics at specified intervals. The sensor data are transmitted through LoRaWAN network(Eg- Helium, The THings Network, etc.) to the cloud. The data in the cloud are processed and develiered to a dashboard with preset specifications to be observed by the user.
